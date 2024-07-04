@@ -8,7 +8,7 @@
 <body style="background-color: black;">
    <center> <h1 style="color: aliceblue;">THE PERIODIC TABLE </h1></center>
     <center>
-<table style="text-align: center" border="1" width="1000">
+<table style="text-align: center" border="0" width="1000">
     <tr>
         <td bgcolor="orange">1<br>H</td>
         <td colspan="16" style="empty-cells: hide;"></td>
